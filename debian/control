@@ -1,4 +1,5 @@
 Source: i3-gnome
+Section: universe/gnome
 Priority: optional
 Maintainer: Norvald H. Ryeng <norvald@ryeng.name>
 Build-Depends: debhelper-compat (= 12)
